@@ -17,3 +17,5 @@ Imports:
     ggplot2,
     tidyr,
     janitor
+URL: https://github.com/Shelmith-Kariuki/rsalamz
+BugReports: https://github.com/Shelmith-Kariuki/rsalamz/issues
